@@ -180,11 +180,14 @@
             <artifactId>redisson</artifactId>
             <version>3.10.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/in.clouthink.repack/fastdfs-client-java -->
         <dependency>
-            <groupId>org.csource</groupId>
+            <groupId>in.clouthink.repack</groupId>
             <artifactId>fastdfs-client-java</artifactId>
-            <version>1.27-SNAPSHOT</version>
+            <version>1.29.4</version>
         </dependency>
+
+
         <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time</artifactId>
